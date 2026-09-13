@@ -8,6 +8,8 @@
 
 - **主な対象ユーザー:** Java開発者、オブジェクト指向設計を学ぶ学習者
 - **デモ動画 / キャプチャ:**
+<img width="4608" height="2592" alt="クラス図" src="https://github.com/user-attachments/assets/3f3b4f46-5a3c-4cf8-9377-3276fd1a71cb" />
+
   
 
 ## 🌟 主な機能と操作方法
